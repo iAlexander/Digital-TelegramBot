@@ -5,7 +5,8 @@
     "dev": "cross-env DEBUG='*' nodemon ."
   },
   "dependencies": {
-    "telegraf": "^3.34.1"
+    "telegraf": "^3.34.1",
+    "telegraf-session-local": "^1.0.2"
   },
   "devDependencies": {
     "cross-env": "^6.0.3",
