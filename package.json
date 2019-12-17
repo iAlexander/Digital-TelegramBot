@@ -1,0 +1,14 @@
+{
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "cross-env DEBUG='*' nodemon ."
+  },
+  "dependencies": {
+    "telegraf": "^3.34.1"
+  },
+  "devDependencies": {
+    "cross-env": "^6.0.3",
+    "nodemon": "^2.0.2"
+  }
+}
