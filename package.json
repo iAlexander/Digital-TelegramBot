@@ -5,6 +5,7 @@
     "dev": "cross-env DEBUG='*' nodemon ."
   },
   "dependencies": {
+    "mongoose": "^5.8.1",
     "telegraf": "^3.34.1",
     "telegraf-session-local": "^1.0.2"
   },
